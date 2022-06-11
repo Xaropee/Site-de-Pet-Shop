@@ -1,0 +1,38 @@
+.backGroundColorNav{
+    background-color: bisque; 
+    color: white
+}
+
+.textNav{
+    color: black !important;
+    font-size: 90px;
+    font-weight: 450;
+}
+
+.nav-item{
+    padding: 0px 50px;
+}
+
+.navbar{
+    padding: 1px 50px;
+    position: fixed;
+    width: 100%;
+}
+.heightFull{
+    height: 100vh;
+}
+.sectionOne{
+    padding-top: 100px;
+    background-color: rgb(240, 243, 41) ;
+}
+    .titleSectionOne {
+        color: rgba(250, 249, 249, 0.993);
+        font-size: 50px;
+    }
+    .Serviços{
+        background-color: rgb(8, 8, 8);
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
